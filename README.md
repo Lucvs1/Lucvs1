@@ -1,29 +1,38 @@
+# Olá, eu sou o Lucas Bezerra 👋
 
-### Hello! I am Lucas Bezerra!👋🏻
+Desenvolvedor de Software focado em criar aplicações web funcionais, performáticas e com design intuitivo. Graduando na área de tecnologia, combino desenvolvimento front-end com boas práticas de interface e engenharia de software.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bezerra-51030b303/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lxcao021/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZdcNCtbA)
+---
 
-![Lucvs GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucvs1&show_icons=true&theme=radical)
+### 🚀 Sobre mim
 
-## The technologies I use for programming in my day.
+- 💻 Experiência prática com desenvolvimento web, integrações de APIs e banco de dados.
+- 🎨 Olhar atento para UI/UX design, prototipação e usabilidade.
+- 🛠️ Sempre aprimorando código limpo, arquitetura e versionamento profissional com Git.
 
-<div style="display: inline_block"> <br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
+---
 
-## The technologies I use for design.
+### 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block"> <br/>
-    <img align="center" alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-    <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div><br/>
+**Desenvolvimento**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap,mysql,git,github,docker" />
+</p>
 
-Developing the future.
+**Design & Prototipação**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/lucas-bezerra-51030b303" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucasbezerradev1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
