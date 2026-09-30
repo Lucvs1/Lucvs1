@@ -58,8 +58,8 @@ Estudante de **Engenharia de Software** pela Anhanguera e com formação técnic
 ## 📈 Atividade & Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucvs1&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucvs1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucvs1&theme=tokyonight&hide_border=true&count_private=true" alt="Streak Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucvs1&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </div>
 
 <br/>
